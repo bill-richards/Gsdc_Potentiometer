@@ -1,0 +1,21 @@
+#######################################
+# Classes, datatypes (KEYWORD1)
+#######################################
+
+Gsdc_Potentiometer	        KEYWORD1
+Gsdc_PotentiometerReading	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+GetPosition	                KEYWORD2
+GetSmoothedPositionValue    KEYWORD2
+GetTranslatedAngle          KEYWORD2
+MovementWasDetected         KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+EMA_a  LITERAL1
+EMA_S  LITERAL1

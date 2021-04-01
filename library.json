@@ -1,0 +1,23 @@
+{
+  "name": "Gsdc Potentiometer Library",
+  "version": "2.0.0",
+  "description": "Gsdc Potentiometer Library",
+  "keywords": "potentiometer",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/bill-richards/Gsdc_Potentiometer"
+  },
+  "authors":
+  [
+    {
+      "name": "Bill Richards",
+      "email": "bill@greyskin.co.uk"
+    }
+  ],
+  "license": "MIT",
+  "dependencies": {
+  },
+  "frameworks": "*",
+  "platforms": "*"
+}

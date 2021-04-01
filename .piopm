@@ -1,0 +1,12 @@
+{
+    "type": "library", 
+    "name": "Gsdc Potentiometer Library", 
+    "version": "1.0.0", 
+    "spec": {
+                "owner": "gsdc (greyskin.com) Ltd", 
+                "id": 30, 
+                "name": "Gsdc Potentiometer Library", 
+                "requirements": null, 
+                "url": null
+            }
+}
